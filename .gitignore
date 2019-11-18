@@ -103,6 +103,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# unittest
+source/.pytest_cache
+source/.pytest_cache/*
+
 # idea
 .idea
 .idea/*
